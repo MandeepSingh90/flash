@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;spring-boot-gradle&apos;" deleteContents="true" description="Delete resource &apos;spring-boot-gradle&apos;" element1="/spring-boot-gradle" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1560771464801"/>&#x0A;<refactoring comment="Delete resource &apos;iotservices&apos;" deleteContents="true" description="Delete resource &apos;iotservices&apos;" element1="/iotservices" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1560854332066"/>
+</session>

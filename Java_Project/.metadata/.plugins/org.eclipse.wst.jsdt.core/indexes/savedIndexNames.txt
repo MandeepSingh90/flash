@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+/Users/mandeepsingh/OneDrive - Tesco/Documents/workspace-spring-tool-suite-4-4.2.2.RELEASE/Java_Project/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
